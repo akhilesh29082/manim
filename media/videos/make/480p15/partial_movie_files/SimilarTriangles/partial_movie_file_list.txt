@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/DEV/Manim/triangle/media/videos/make/480p15/partial_movie_files/SimilarTriangles/1185818338_4186793826_223132457.mp4'
+file 'file:C:/DEV/Manim/triangle/media/videos/make/480p15/partial_movie_files/SimilarTriangles/624642324_2940068503_2623678781.mp4'
+file 'file:C:/DEV/Manim/triangle/media/videos/make/480p15/partial_movie_files/SimilarTriangles/624642324_2408024828_816541382.mp4'
